@@ -58,3 +58,5 @@ typings/
 .env
 
 .flickrExclusion
+
+.DS_Store
